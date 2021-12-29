@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<title>BRANMA – Time to Chill.</title>
+		<link rel="icon" href="BRANMA_logo_social_color.ico">
+		<link href="fontawesome-free-5.15.4-web/css/all.css" rel="stylesheet">
+	</head>
+	<body>
+	<style type="text/css">
+		@font-face {
+		   font-family: "Roboto Condensed";
+		   font-weight: 300;
+  			font-style: normal;
+		   src: url("RobotoCondensed-Light.ttf") format('truetype');
+		}
+		@font-face {
+		   font-family: "Roboto Condensed";
+		   font-weight: 300;
+  			font-style: italic;
+		   src: url("RobotoCondensed-LightItalic.ttf") format('truetype');
+		}
+		@font-face {
+		   font-family: "Roboto Condensed";
+		   font-weight: 400;
+  			font-style: normal;
+		   src: url("RobotoCondensed-Regular.ttf") format('truetype');
+		}
+		@font-face {
+		   font-family: "Roboto Condensed";
+		   font-weight: 400;
+  			font-style: italic;
+		   src: url("RobotoCondensed-Italic.ttf") format('truetype');
+		}
+		@font-face {
+		   font-family: "Roboto Condensed";
+		   font-weight: 700;
+  			font-style: normal;
+		   src: url("RobotoCondensed-Bold.ttf") format('truetype');
+		}
+		@font-face {
+		   font-family: "Roboto Condensed";
+		   font-weight: 700;
+  			font-style: italic;
+		   src: url("RobotoCondensed-BoldItalic.ttf") format('truetype');
+		}
+		body {
+			font-family: "Roboto Condensed", sans-serif;
+		   font-weight: 400;
+		   font-style: normal;
+		   font-size: 15px;
+			color: #ffffff;
+			background-color: #000000;
+			background: url("urban-mens-fashion-on-young-adult_2000x.jpg") center center;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+			margin: 0 !important;
+		}
+		.spacer-3 {
+			margin-top: 3px;
+		}
+		.spacer-6 {
+			margin-top: 6px;
+		}
+		.spacer-10 {
+			margin-top: 10px;
+		}
+		.spacer-35 {
+			margin-top: 35px;
+		}
+		.block {
+		   text-align: center;
+		}
+		.img-banner.block, .text-banner.block, .text-content.block {
+			padding: 5px;		
+		}
+		.text-banner h2 {
+			font-size: 3em;
+		   line-height: 1.2;
+		   margin: 10px auto;
+		   padding: 12px 0;
+		}
+		.text-content p {
+			margin: 0 0 15px;
+		   font-style: normal;
+		   line-height: 1.6em;
+		}
+		.banner-logo {
+		   max-width: 280px;
+			margin: 0 auto;
+		}
+		.block.social-links {
+	      padding-top: 3.5em;
+		}
+		.fab {
+		   font-size: 25px;
+			margin: 5px;
+			min-width: 25px;
+		}
+		.block.powered {
+			margin-top: 15px;
+			margin-top: 15px;
+		   font-size: 13px;
+		   line-height: 1.6em;
+	      color: #666;
+		}
+	</style>
+	<div class="spacer-10"></div>
+	<div class="block img-banner"><img class="banner-logo" src="BRANMA_logo_white_720x.png" alt="BRANMA"></div>
+	<div class="spacer-3"></div>
+	<div class="block text-banner"><h2>Time to Chill.</h2></div>
+	<div class="block text-content"><p>Branma is currently down for maintenance.</p><p>Stay tuned.</p></div>
+	<div class="spacer-35"></div>	
+	<div class="block social-links">
+		<a href="https://twitter.com/branmaco_" title="BRANMA on Twitter" rel="me" target="_blank"><i class="fab fa-twitter"></i></a>
+		<a href="https://facebook.com/branmaco" title="BRANMA on Facebook" rel="me" target="_blank"><i class="fab fa-facebook-f"></i></a>
+		<a href="https://instagram.com/branmaco" title="BRANMA on Instagram" rel="me" target="_blank"><i class="fab fa-instagram"></i></a>
+	</div>
+	<div class="block powered">
+  	  		  © 2021 BRANMA</div>
+	</body>
+</html>
